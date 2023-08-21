@@ -1,0 +1,19 @@
+body{
+    background:gold;
+}
+h1{
+    font-size: 60px;
+    color:bisque;
+    text-align: center
+}
+p{
+    font-size: 30px;
+    color:aqua;
+    text-align: justify;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    margin-left: 13px;
+}
